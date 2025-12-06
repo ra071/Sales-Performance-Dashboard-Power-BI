@@ -163,7 +163,7 @@ The dashboard produced several actionable insights:
 
 * Sales trend shows fluctuations but a noticeable peak around Jan 2023.
 
-* Business Value Delivered
+### Business Value Delivered
 
 * Helps executives quickly understand revenue drivers.
 
